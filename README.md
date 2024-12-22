@@ -37,7 +37,8 @@ The generated password is displayed in the application and can be tailored to me
 3. Compile and run the program using your preferred compiler.
 
 ---
-
+![image](https://github.com/user-attachments/assets/cd738d48-4cc7-4833-8445-c705d52566b2)
+---
 ## Future Enhancements
 - Add a "Copy to Clipboard" button for the generated password.
 - Allow saving passwords to a file for future reference.
